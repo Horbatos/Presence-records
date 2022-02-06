@@ -1,0 +1,19 @@
+STUDENT
+
+email: petar.peric@pmfst.hr
+lozinka: Petar1
+
+
+email: ivo.ivic@pmfst.hr
+lozinka: IvoIvic1
+
+
+
+PROFFESOR:
+
+email: prof.horvat@pmfst.hr
+lozinka: Profesor1
+
+
+email: prof.kovac@pmfst.hr
+lozinka: Kovac1

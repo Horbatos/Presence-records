@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54607457969",
+    "firebase_url": "https://pmfstevidencija.firebaseio.com",
+    "project_id": "pmfstevidencija",
+    "storage_bucket": "pmfstevidencija.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54607457969:android:6c7a79d50a6fd162",
+        "android_client_info": {
+          "package_name": "com.example.pmfstevidencija"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54607457969-c1jeburrd2b9v7o1ocnl0gjl97vgcvev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pmfstevidencija",
+            "certificate_hash": "4147555a95240cb2555c3a4f4f7673bca9e683c0"
+          }
+        },
+        {
+          "client_id": "54607457969-6ff3q2p350g419one6p1em142e0reorp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWm2XTi1Oy5gTh2O-d_7kEsKjG2GTtQLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54607457969-6ff3q2p350g419one6p1em142e0reorp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

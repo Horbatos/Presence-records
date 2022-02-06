@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PMFST Evidencija</string>
+    <string name="log_in">LOG IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
